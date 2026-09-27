@@ -147,6 +147,10 @@ Make.com 하단의 **[Run once]**를 눌러 테스트를 해보세요. 구글 �
 8시간마다 자동적으로 전기차 화재에 관한 데이터 수집으로 수집시간, 기사제목, 화재장소, 차량기종, 화재 원인, 인명피해, 피해금액, 기사링크와 같은 정보를 수집 후, 이를 구글 스프레드 시트에 결과를 보여줄 수 있도록 만들었다.
 
  # 결과 확인
+
+<img width="960" height="1032" alt="image" src="https://github.com/user-attachments/assets/331b510f-5acb-4112-8d30-b5de4574c9f4" />
+
+
 <img width="960" height="1032" alt="image" src="https://github.com/user-attachments/assets/d0c533cb-1058-4c55-9ca8-3e051e223a60" />
 
 1. 프로젝트 개요
