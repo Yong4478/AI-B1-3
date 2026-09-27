@@ -150,8 +150,8 @@ Make.com 하단의 **[Run once]**를 눌러 테스트를 해보세요. 구글 �
 
 <img width="960" height="1032" alt="image" src="https://github.com/user-attachments/assets/331b510f-5acb-4112-8d30-b5de4574c9f4" />
 
+<img width="960" height="1032" alt="image" src="https://github.com/user-attachments/assets/be02beb9-e00a-4200-ae46-4029b514b73d" />
 
-<img width="960" height="1032" alt="image" src="https://github.com/user-attachments/assets/d0c533cb-1058-4c55-9ca8-3e051e223a60" />
 
 1. 프로젝트 개요
 
