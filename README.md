@@ -99,7 +99,7 @@ MAKE:
 <img width="777" height="376" alt="image" src="https://github.com/user-attachments/assets/d04d58b5-848d-4f89-a937-acf0133d1b87" />
 
 이를 통해 간단한 툴의 작업을 마무리 하여 두 툴을 비교 분석한 결과 MAKE 툴로 결정하게 되었다.
-
+정확한 사유는 뒤에 서술하도록 하겠다.
 
 # 전기차 화재 정보 수집 및 정리 워크플로우
 
